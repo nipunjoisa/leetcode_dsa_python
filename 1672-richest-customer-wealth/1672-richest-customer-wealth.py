@@ -2,11 +2,11 @@ class Solution:
     def maximumWealth(self, accounts: list[list[int]]) -> int:
         richest=0 
 
-        for i in accounts:
+        for customer in accounts:
             wealth=0
 
-            for j in i:
-                wealth+=j
+            for amount in customer:
+                wealth+=amount
 
 
             richest=max(richest,wealth)
