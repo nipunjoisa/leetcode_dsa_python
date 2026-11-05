@@ -1,17 +1,25 @@
+
 class Solution:
     def findNumbers(self, nums: list[int]) -> int:
         
-        COUNT = 0
+        count = 0
 
         for i in nums:
-            length=len(str(i))
+            digits = 0
+            while i>0:
+                i //=10
+                digits+=1
 
-            if length % 2 == 0:
-                COUNT+=1
-        return COUNT
+            if digits % 2 == 0:
+                count+=1
 
-        #Time complexity of O(n.d) on a single pass, to traverse through every element in nums, and d is the number of digits when we are counting the strings. 
+        return count
+
+            
+
+        #Time complexity of O(n) 
 
         #Space complexity of O(d). 
+
 
 
