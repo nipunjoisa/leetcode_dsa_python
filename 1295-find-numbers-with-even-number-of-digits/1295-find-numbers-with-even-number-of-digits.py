@@ -12,6 +12,6 @@ class Solution:
 
         #Time complexity of O(n.d) on a single pass, to traverse through every element in nums, and d is the number of digits when we are counting the strings. 
 
-        #Space complexity of O(1). 
+        #Space complexity of O(d). 
 
 
