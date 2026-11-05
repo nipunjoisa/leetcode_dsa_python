@@ -1,9 +1,8 @@
-class Solution(object):
-    def runningSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def runningSum(self, nums: list[int]) -> list[int]:
+
+        
+        
         length = len(nums)
         result = [0]*length
         result[0]=nums[0]
@@ -13,3 +12,4 @@ class Solution(object):
 
 
     
+        
