@@ -24,16 +24,5 @@ class Solution:
 
 
 
-
-#swap 0 with the NEXT non-zero element
-
-        '''write = 0
-
-        for i in range(len(nums)) :
-            if nums[i] == 0 :
-                write+=1
-            else:
-                nums[write]=nums[i]'''
-
         
         
