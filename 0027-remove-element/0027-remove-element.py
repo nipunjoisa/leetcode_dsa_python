@@ -7,4 +7,9 @@ class Solution:
                 nums[write] = nums[i]
                 write += 1
         return write 
+
+#Time complexity : O(n), traversing the size of array.
+
+#Space complexity : O(1), constant space editing of array
+
                 
