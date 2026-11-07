@@ -8,6 +8,11 @@ class Solution:
             seen.add(i)
 
         return False
+
+
+#Time complexity: O(n), optimal when duplicate found early
+
+#Space complexity O(n), due to the use of a set. 
         
 
 
