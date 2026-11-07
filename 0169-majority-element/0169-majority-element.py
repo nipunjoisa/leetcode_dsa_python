@@ -1,14 +1,10 @@
 class Solution:
     def majorityElement(self, nums: list[int]) -> int:
-        hashmap = {}
+        nums.sort()
 
-        for i in nums:
-            if i in hashmap:
-                hashmap[i] += 1
-            else:
-                hashmap[i]=1
-        
-        return max(hashmap,key=hashmap.get)
+        return(nums[len(nums)//2]) 
 
-#Time complexity O(n)
-#Space complexity O(n), due to the usage of dictionary
+        #Because majority element appears more than [n/2] times, so i would be from the middle of the list to the end, and easy to find. 
+
+    #Time : O(1)
+    #Space: O(1)
