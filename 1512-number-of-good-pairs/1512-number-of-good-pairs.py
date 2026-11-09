@@ -3,7 +3,7 @@ class Solution:
        
         pairs = 0
         hashmap = Counter(nums)
-        for n,i in hashmap.items():
+        for i in hashmap.values():
             pairs += (i*(i-1))//2
         return pairs
 
