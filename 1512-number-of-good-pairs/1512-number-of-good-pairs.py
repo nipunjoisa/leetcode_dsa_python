@@ -1,11 +1,14 @@
 class Solution:
     def numIdenticalPairs(self, nums: list[int]) -> int:
-        #BRUTE FORCE APPROACH
-        count=0
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i] == nums[j] :
-                    count+=1
+       
+        pairs = 0
+        hashmap = Counter(nums)
+        print(hashmap)
+        for n,i in hashmap.items():
+            pairs += (i*(i-1))//2
+        return pairs
 
-        return count
+#Time complexity :  O(n)
+#Space complexity : O(n)
+
 
