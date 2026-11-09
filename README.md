@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0189-rotate-array) |
+| [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
