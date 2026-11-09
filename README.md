@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0189-rotate-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0242-valid-anagram) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0242-valid-anagram) |
@@ -47,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
