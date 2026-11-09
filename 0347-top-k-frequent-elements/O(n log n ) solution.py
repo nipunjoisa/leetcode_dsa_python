@@ -6,7 +6,7 @@ class Solution:
             hashmap[i]+=1
         
         return(sorted(hashmap,key=hashmap.get,reverse=True)[:k])
-#Time complexity :O(n log n), traversing list nums, n times, and sorting takes log n time
+#Time complexity :O(n log n), traversing list nums, n times, and sorting takes n log n time
 
 #Space complexity : O(n), extra space occupied by dictionary. 
 
