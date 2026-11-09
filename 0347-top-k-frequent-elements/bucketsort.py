@@ -10,7 +10,7 @@ class Solution:
             buckets[freq].append(num)
         ans = []
         for i in range(len(buckets)-1,0,-1) :
-            if buckets[i] != 0:
+            if buckets[i]:
                 ans.extend(buckets[i])
             if len(ans) == k:
                 return ans
