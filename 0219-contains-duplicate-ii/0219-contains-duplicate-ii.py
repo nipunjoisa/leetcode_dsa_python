@@ -1,14 +1,14 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: list[int], k: int) -> bool:
         hashmap = {}
-        if len(nums) > 1 :
-            for idx in range(len(nums)) :
-                if nums[idx] in hashmap : #duplicate
-                    i = hashmap[nums[idx]]
-                    j = idx
-                    if abs(i-j) <= k:
-                        return True
-                hashmap[nums[idx]] = idx
+        
+        for idx in range(len(nums)) :
+            if nums[idx] in hashmap : #duplicate
+                i = hashmap[nums[idx]]
+                j = idx
+                if abs(i-j) <= k:
+                    return True
+            hashmap[nums[idx]] = idx
         return False
 
 #Time complexity : O(n), due to operation per element in array when size of array is equal to n
