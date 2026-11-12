@@ -1,6 +1,6 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: list[int], k: int) -> bool:
-        hashmap = defaultdict(int)
+        hashmap = {}
         if len(nums) > 1 :
             for idx in range(len(nums)) :
                 if nums[idx] in hashmap : #duplicate
