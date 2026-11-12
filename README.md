@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0380-insert-delete-getrandom-o1) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0380-insert-delete-getrandom-o1) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
