@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0454-4sum-ii) |
+| [0554-brick-wall](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0554-brick-wall) |
 | [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0454-4sum-ii) |
+| [0554-brick-wall](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0554-brick-wall) |
 | [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
