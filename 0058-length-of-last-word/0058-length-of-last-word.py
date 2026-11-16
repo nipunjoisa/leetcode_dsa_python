@@ -3,7 +3,7 @@ class Solution:
         i = len(s) - 1
         length = 0
 
-        while i>=1 and s[i] == " ": #if there are whitespace at the end of the string. 
+        while i>=1 and s[i] == " ": #if there are whitespace at the end of the string,skip them before we start counting. 
             i-=1
         
         while i>=0 and s[i]!=" ":
