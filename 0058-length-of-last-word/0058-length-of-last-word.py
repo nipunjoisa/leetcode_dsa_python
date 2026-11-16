@@ -1,8 +1,26 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        k = s.split()                 
-        return(len(k[-1]))
+        i = len(s) - 1
+        length = 0
+
+        while i>=1 and s[i] == " ": #if there are whitespace at the end of the string. 
+            i-=1
+        
+        while i>=0 and s[i]!=" ":
+            length += 1
+            i-=1
+        
+        return length
+
+#Time complexity :O(n)
+#Space complexity : O(1)
+
+        
+            
+
+        
 
 
-#Time complexity :O(n), the split function takes O(n) time
-#Space complexity:O(n), extra space by the array 'k' 
+
+
+
