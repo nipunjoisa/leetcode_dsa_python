@@ -1,25 +1,26 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        stripped = ''
-        for ch in s:
-            if ch.isalnum():
-                stripped += ch
+        left = 0
+        right = len(s) - 1
 
-        p1=0
-        p2=len(stripped) - 1
+        while left<=right :
+            print("now comparing :",s[left],"and",s[right])
+            if not s[left].isalnum():
+                left += 1
+                continue
 
-        while p1<=p2:
-            if stripped[p1].lower() != stripped[p2].lower() :
+            if not s[right].isalnum():
+                right -= 1
+                continue
+
+            if s[left].lower() != s[right].lower() :
                 return False
-            p1 += 1
-            p2 -= 1
 
-        return True 
+            left += 1
+            right -= 1
 
-#Time complexity :O(n), Stripping took O(n) time, and comparision took n//2 time, therefore overall O(n)
+        return True
 
-#Space complexity: O(n), the string stripped in worst case could store all the strings if all .isalnum() is true. 
+#Time complexity: O(n), Every iteration moves at least one pointer inward, and together the pointers travel at most n steps, so there are at most n iterations of O(1) work: O(n).
 
-       
-        
-                
+#Space complecity :O(1), only using left and right pointers as integer variables. 
