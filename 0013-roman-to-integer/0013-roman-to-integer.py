@@ -19,4 +19,4 @@ class Solution:
         return total 
 
 #Time complexity : O(n), every element in the string is worked upon once per iteration. 
-#Space complexity: O(n), due to the use of dictionary 
+#Space complexity: O(1), due to fixed look-up table, memory does not increase with increase in input size. 
