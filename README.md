@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0205-isomorphic-strings) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0380-insert-delete-getrandom-o1) |
 | [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0058-length-of-last-word) |
