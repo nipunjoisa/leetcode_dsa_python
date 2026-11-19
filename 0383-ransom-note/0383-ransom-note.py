@@ -1,8 +1,9 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        return not(Counter(ransomNote) - Counter(magazine))
+        for i in set(ransomNote):
+            if ransomNote.count(i) > magazine.count(i):
+                return False
 
-
-#Time complexity : O(m+r), counter(ransomnote) takes O(m) times, where m is the number of characters in magazine and similarly O(r) for ransomnote
-
-#Space complexity : O(1), constant hashmap which can store at most 26 lowercase characters for any input. 
+        return True
+# Time:  O(k*(m+r))  k = distinct letters in the note (<= 26, so O(m+r) here)
+# Space: O(1)        set of at most 26 letters
