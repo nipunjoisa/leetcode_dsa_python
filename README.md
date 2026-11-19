@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0454-4sum-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0459-repeated-substring-pattern) |
 ## Heap (Priority Queue)
