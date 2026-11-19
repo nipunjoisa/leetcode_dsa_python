@@ -1,13 +1,8 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        frequency = Counter(magazine)
-        
-        for ch in ransomNote:
-            if frequency[ch] == 0:        
-                return False
-            frequency[ch] -= 1
-        return True
+        return not(Counter(ransomNote) - Counter(magazine))
 
 
-#Time complexity : O(m+r), where m is the len of magazine and r is the len ransomNote
-#Space complexity : O(1), counter holds at most 26 keys, and it does not depend on input size. 
+#Time complexity : O(m+r), counter(ransomnote) takes O(m) times, where m is the number of characters in magazine and similarly O(r) for ransomnote
+
+#Space complexity : O(1), constant hashmap which can store at most 26 lowercase characters for any input. 
