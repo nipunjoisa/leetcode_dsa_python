@@ -16,3 +16,6 @@ class Solution:
                 hashmap[pattern[i]] = S[i]
 
         return True
+
+#Time complexity : O(n)
+#Space complecity :O(n)
