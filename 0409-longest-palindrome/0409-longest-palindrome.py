@@ -15,4 +15,4 @@ class Solution:
 
         return res
 #Time : O(n)
-#Space: O(n)
+#Space: O(1), map can hold atmost 52 characters. 
