@@ -26,4 +26,4 @@ class Solution:
         return res
 
 #Overall time :O(n)
-#Overall space: O(1), res is string variables, n integer variable
+#Overall space: O(n), due to the return after slicing which creates a copy of the string. 
