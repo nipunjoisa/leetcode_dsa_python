@@ -2,13 +2,17 @@ class Solution:
     def longestPalindrome(self, s: str) -> int:
         count = defaultdict(int)
         res = 0
-        for ch in s:
-            count[ch] += 1
+        for c in s:     #Time : O(n), O(1) operation for every character 
+            count[c] += 1
 
-            if count[ch] % 2 == 0:
+            if count[c]%2 == 0:  #Every even pair forms a palindrome, add 2 everytime you notice it
                 res += 2
-        
-        for i in count.values():
-            if i%2 != 0:
-                return res + 1
+
+        for i in count.values() : #O(n)
+            if i%2 != 0: 
+                res+=1
+                break
+
         return res
+#Time : O(n)
+#Space: O(1), map can hold atmost 52 characters. 
