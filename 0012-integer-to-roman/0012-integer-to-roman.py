@@ -17,10 +17,10 @@ class Solution:
         (1, 'I'),
     ]
 
-    res = []        #O(n) space occupation
+    res = ''       #O(n) space occupation
     for val, symbol in romans:   #O(1), fixed number of iterations for every input.
       while num >= val: 
-        res.append(symbol)
+        res+=symbol
         num -= val
 
     return ''.join(res)
