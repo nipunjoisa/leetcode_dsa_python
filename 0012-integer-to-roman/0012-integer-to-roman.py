@@ -23,7 +23,7 @@ class Solution:
         res+=symbol
         num -= val
 
-    return ''.join(res)
+    return res
 
 # Time: O(1) - Fixed 13-symbol lookup table; max 15 iterations since 1 <= num <= 3999 (worst case: 3888 -> "MMMDCCCLXXXVIII").
 # Space: O(1) - Output list `res` holds at most 15 chars due to the 3999 upper bound (also O(1) auxiliary space).
