@@ -1,26 +1,13 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
+
+        count = 0 
         i = len(s) - 1
-        length = 0
 
-        while i>=0 and s[i] == " ": #if there are whitespace at the end of the string,skip them before we start counting. 
+        while s[i] == ' ' and i>=0:
             i-=1
-        
-        while i>=0 and s[i]!=" ":
-            length += 1
-            i-=1
-        
-        return length
+        while s[i] != ' ' and i>=0:
+            i -= 1
+            count += 1
 
-#Time complexity :O(n)
-#Space complexity : O(1)
-
-        
-            
-
-        
-
-
-
-
-
+        return count 
