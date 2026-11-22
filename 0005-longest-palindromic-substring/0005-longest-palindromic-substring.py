@@ -25,3 +25,6 @@ class Solution:
                 L=l_even
 
         return s[L+1:R]
+
+#Overall time : O(n^2)
+#Overall Space: O(n)
