@@ -1,29 +1,27 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        
-        n = len(s)
-        res = ''
-        def expand(l:int,r:int) -> str :
-            while l >= 0 and r < n :          #Time: O(n)
+        def expand(l:int,r:int) -> [int,int]:
+            while l>=0 and r<len(s) :
                 if s[l] == s[r] :
                     l -= 1
                     r += 1
                 else:
                     break
+                
+            return (l,r)
 
-            return s[l+1:r]
+        L = 0
+        R = 0
+        for i in range(len(s)) :
+            l_odd , r_odd = expand(i,i)
+            if (r_odd - l_odd) > (R-L) :
+                R=r_odd
+                L=l_odd
 
 
-        for i in range(n) :           #Time O(n^2)
-            odd = expand(i,i)
-            if len(odd) > len(res):
-                res = odd
+            l_even , r_even = expand(i,i+1)
+            if (r_even - l_even) > (R-L) :
+                R=r_even
+                L=l_even
 
-            even = expand(i,i+1)
-            if len(even) > len(res) :
-                res = even
-
-        return res
-
-#Overall time :O(n)
-#Overall space: O(n), due to the return after slicing which creates a copy of the string. 
+        return s[L+1:R]
