@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0380-insert-delete-getrandom-o1) |
+| [0509-fibonacci-number](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
