@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/1512-number-of-good-pairs) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -191,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
