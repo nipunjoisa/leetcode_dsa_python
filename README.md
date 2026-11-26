@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0169-majority-element) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/nipunjoisa/leetcode_dsa_python/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
